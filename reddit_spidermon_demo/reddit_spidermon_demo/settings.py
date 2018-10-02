@@ -6,6 +6,7 @@ SPIDER_MODULES = ['reddit_spidermon_demo.spiders']
 NEWSPIDER_MODULE = 'reddit_spidermon_demo.spiders'
 
 HTTPCACHE_ENABLED = True
+SPIDERMON_ENABLED = True
 
 # ---------------------------------------------------
 # Validators
